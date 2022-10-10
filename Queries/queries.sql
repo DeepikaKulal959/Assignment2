@@ -11,7 +11,7 @@ deepika=>create table Employee(
     age int not null
  );
  
-INSERT INTO Employee (name, age) values ('anu', 27);
+deepika=> INSERT INTO Employee (name, age) values ('anu', 27);
 INSERT 0 1
 
 deepika=> INSERT INTO Employee (name, age) values ('raj', 25);
